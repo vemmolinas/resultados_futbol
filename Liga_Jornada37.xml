@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="Liga_Jornada (XSL).xsl"?>
+<marcador xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="Liga_Jornada (XSD).xsd">
+  <competicion id="1">
+    <nombre>LFP 1 DIVISION</nombre>
+    <fase id="0"/>
+    <jornada id="37"  jornadaAnterior="https://www.marca.com/marcador/futbol/iphone/1/2018_19/fase0/jornada_36/marcador.xml" jornadaSiguiente="https://www.marca.com/marcador/futbol/iphone/1/2018_19/fase0/jornada_38/marcador.xml"></jornada>
+    <temporada>2018_19</temporada>
+    <grupos>
+      <grupo id="1">
+        <eventos>
+          <evento id="511021">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="2">Athletic</equipolocal>
+            <equipovisitante id="6">Celta</equipovisitante>
+            <resultadolocal>3</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/174.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/176.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/ath_cel/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/ath_cel/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511022">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="3">Atlético</equipolocal>
+            <equipovisitante id="17">Sevilla</equipovisitante>
+            <resultadolocal>1</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/175.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/179.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/atm_sev/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/atm_sev/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511023">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="4">Barcelona</equipolocal>
+            <equipovisitante id="109">Getafe</equipovisitante>
+            <resultadolocal>2</resultadolocal>
+            <resultadovisitante>0</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/178.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/1450.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/bar_get/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>-1</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/bar_get/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511024">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="302">Girona</equipolocal>
+            <equipovisitante id="112">Levante</equipovisitante>
+            <resultadolocal>1</resultadolocal>
+            <resultadovisitante>2</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/2893.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/855.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/ger_lev/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/ger_lev/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511030">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="111">Leganés</equipolocal>
+            <equipovisitante id="9">Espanyol</equipovisitante>
+            <resultadolocal>0</resultadolocal>
+            <resultadovisitante>2</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/957.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/177.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/leg_esp/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/leg_esp/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511026">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="13">Rayo</equipolocal>
+            <equipovisitante id="20">Valladolid</equipovisitante>
+            <resultadolocal>1</resultadolocal>
+            <resultadovisitante>2</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/184.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/192.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/ray_vad/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/ray_vad/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511027">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="5">Betis</equipolocal>
+            <equipovisitante id="162">Huesca</equipovisitante>
+            <resultadolocal>2</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/185.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/2894.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/bet_hue/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/bet_hue/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511028">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="15">R. Sociedad</equipolocal>
+            <equipovisitante id="14">R. Madrid</equipovisitante>
+            <resultadolocal>3</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/188.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/186.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/rso_rma/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/rso_rma/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511029">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="21">Valencia</equipolocal>
+            <equipovisitante id="92">Alavés</equipovisitante>
+            <resultadolocal>3</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/191.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/173.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/val_ala/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/val_ala/directo.xml</enlaceDirecto>
+          </evento>
+          <evento id="511025">
+            <fecha>12/05/2019 18:30</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="132">Villarreal</equipolocal>
+            <equipovisitante id="106">Eibar</equipovisitante>
+            <resultadolocal>1</resultadolocal>
+            <resultadovisitante>0</resultadovisitante>
+            <tipodeporte>1</tipodeporte>
+            <escudoLocal>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/449.png</escudoLocal>
+            <escudoVisitante>http://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/953.png</escudoVisitante>
+            <tv></tv>
+            <estadisticas></estadisticas>
+            <alineaciones>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/vil_eib/alineaciones.html</alineaciones>
+            <comentariosLectores></comentariosLectores>
+            <previacronica>2</previacronica>
+            <enlaceDirecto>https://www.marca.com/eventos/marcador/futbol/2018_19/la-liga/jornada_37/vil_eib/directo.xml</enlaceDirecto>
+          </evento>
+        </eventos>
+        <clasificacion>
+          <team>
+            <name>Barcelona</name> 
+            <rank>1</rank> 
+            <points>86</points> 
+            <played>37</played> 
+            <won>26</won> 
+            <lost>3</lost> 
+            <drawn>8</drawn> 
+            <goals_scored>88</goals_scored> 
+            <goals_conceded>34</goals_conceded> 
+          </team>
+          <team>
+            <name>Atlético</name> 
+            <rank>2</rank> 
+            <points>75</points> 
+            <played>37</played> 
+            <won>22</won> 
+            <lost>6</lost> 
+            <drawn>9</drawn> 
+            <goals_scored>53</goals_scored> 
+            <goals_conceded>27</goals_conceded> 
+          </team>
+          <team>
+            <name>R. Madrid</name> 
+            <rank>3</rank> 
+            <points>68</points> 
+            <played>37</played> 
+            <won>21</won> 
+            <lost>11</lost> 
+            <drawn>5</drawn> 
+            <goals_scored>63</goals_scored> 
+            <goals_conceded>44</goals_conceded> 
+          </team>
+          <team>
+            <name>Valencia*</name> 
+            <rank>4</rank> 
+            <points>57</points> 
+            <played>36</played> 
+            <won>14</won> 
+            <lost>7</lost> 
+            <drawn>15</drawn> 
+            <goals_scored>49</goals_scored> 
+            <goals_conceded>35</goals_conceded> 
+          </team>
+          <team>
+            <name>Getafe*</name> 
+            <rank>5</rank> 
+            <points>57</points> 
+            <played>36</played> 
+            <won>15</won> 
+            <lost>9</lost> 
+            <drawn>12</drawn> 
+            <goals_scored>46</goals_scored> 
+            <goals_conceded>33</goals_conceded> 
+          </team>
+          <team>
+            <name>Sevilla</name> 
+            <rank>6</rank> 
+            <points>56</points> 
+            <played>37</played> 
+            <won>16</won> 
+            <lost>13</lost> 
+            <drawn>8</drawn> 
+            <goals_scored>60</goals_scored> 
+            <goals_conceded>47</goals_conceded> 
+          </team>
+          <team>
+            <name>Athletic</name> 
+            <rank>7</rank> 
+            <points>53</points> 
+            <played>37</played> 
+            <won>13</won> 
+            <lost>10</lost> 
+            <drawn>14</drawn> 
+            <goals_scored>41</goals_scored> 
+            <goals_conceded>43</goals_conceded> 
+          </team>
+          <team>
+            <name>R. Sociedad</name> 
+            <rank>8</rank> 
+            <points>50</points> 
+            <played>37</played> 
+            <won>13</won> 
+            <lost>13</lost> 
+            <drawn>11</drawn> 
+            <goals_scored>45</goals_scored> 
+            <goals_conceded>44</goals_conceded> 
+          </team>
+          <team>
+            <name>Espanyol</name> 
+            <rank>9</rank> 
+            <points>50</points> 
+            <played>37</played> 
+            <won>13</won> 
+            <lost>13</lost> 
+            <drawn>11</drawn> 
+            <goals_scored>46</goals_scored> 
+            <goals_conceded>50</goals_conceded> 
+          </team>
+          <team>
+            <name>Betis</name> 
+            <rank>10</rank> 
+            <points>47</points> 
+            <played>37</played> 
+            <won>13</won> 
+            <lost>16</lost> 
+            <drawn>8</drawn> 
+            <goals_scored>42</goals_scored> 
+            <goals_conceded>52</goals_conceded> 
+          </team>
+          <team>
+            <name>Alavés</name> 
+            <rank>11</rank> 
+            <points>47</points> 
+            <played>37</played> 
+            <won>12</won> 
+            <lost>14</lost> 
+            <drawn>11</drawn> 
+            <goals_scored>37</goals_scored> 
+            <goals_conceded>49</goals_conceded> 
+          </team>
+          <team>
+            <name>Eibar</name> 
+            <rank>12</rank> 
+            <points>46</points> 
+            <played>37</played> 
+            <won>11</won> 
+            <lost>13</lost> 
+            <drawn>13</drawn> 
+            <goals_scored>44</goals_scored> 
+            <goals_conceded>48</goals_conceded> 
+          </team>
+          <team>
+            <name>Leganés</name> 
+            <rank>13</rank> 
+            <points>45</points> 
+            <played>37</played> 
+            <won>11</won> 
+            <lost>14</lost> 
+            <drawn>12</drawn> 
+            <goals_scored>36</goals_scored> 
+            <goals_conceded>41</goals_conceded> 
+          </team>
+          <team>
+            <name>Villarreal</name> 
+            <rank>14</rank> 
+            <points>43</points> 
+            <played>37</played> 
+            <won>10</won> 
+            <lost>14</lost> 
+            <drawn>13</drawn> 
+            <goals_scored>47</goals_scored> 
+            <goals_conceded>50</goals_conceded> 
+          </team>
+          <team>
+            <name>Levante</name> 
+            <rank>15</rank> 
+            <points>43</points> 
+            <played>37</played> 
+            <won>11</won> 
+            <lost>16</lost> 
+            <drawn>10</drawn> 
+            <goals_scored>57</goals_scored> 
+            <goals_conceded>64</goals_conceded> 
+          </team>
+          <team>
+            <name>Valladolid</name> 
+            <rank>16</rank> 
+            <points>41</points> 
+            <played>37</played> 
+            <won>10</won> 
+            <lost>16</lost> 
+            <drawn>11</drawn> 
+            <goals_scored>32</goals_scored> 
+            <goals_conceded>49</goals_conceded> 
+          </team>
+          <team>
+            <name>Celta</name> 
+            <rank>17</rank> 
+            <points>40</points> 
+            <played>37</played> 
+            <won>10</won> 
+            <lost>17</lost> 
+            <drawn>10</drawn> 
+            <goals_scored>51</goals_scored> 
+            <goals_conceded>60</goals_conceded> 
+          </team>
+          <team>
+            <name>Girona</name> 
+            <rank>18</rank> 
+            <points>37</points> 
+            <played>37</played> 
+            <won>9</won> 
+            <lost>18</lost> 
+            <drawn>10</drawn> 
+            <goals_scored>36</goals_scored> 
+            <goals_conceded>51</goals_conceded> 
+          </team>
+          <team>
+            <name>Rayo*</name> 
+            <rank>19</rank> 
+            <points>30</points> 
+            <played>36</played> 
+            <won>8</won> 
+            <lost>22</lost> 
+            <drawn>6</drawn> 
+            <goals_scored>39</goals_scored> 
+            <goals_conceded>68</goals_conceded> 
+          </team>
+          <team>
+            <name>Huesca*</name> 
+            <rank>20</rank> 
+            <points>29</points> 
+            <played>36</played> 
+            <won>6</won> 
+            <lost>19</lost> 
+            <drawn>11</drawn> 
+            <goals_scored>41</goals_scored> 
+            <goals_conceded>64</goals_conceded> 
+          </team>
+        </clasificacion>
+      </grupo>
+    </grupos>
+  </competicion>
+</marcador>

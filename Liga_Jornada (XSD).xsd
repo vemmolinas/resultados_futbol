@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="marcador">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="competicion"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="competicion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nombre" type="xs:string"/>
+        <xs:element ref="fase"/>
+        <xs:element ref="jornada"/>
+        <xs:element name="temporada" type="xs:string"/>
+        <xs:element ref="grupos"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fase">
+    <xs:complexType>
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="jornada">
+    <xs:complexType>
+      <xs:attribute name="id" type="xs:string" use="required"/>
+      <xs:attribute name="jornadaAnterior" type="xs:string" use="required"/>
+      <xs:attribute name="jornadaSiguiente" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="grupos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="grupo"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="grupo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eventos"/>
+        <xs:element ref="clasificacion"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="eventos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="evento" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="evento">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="fecha" type="xs:string"/>
+        <xs:element ref="estado"/>
+        <xs:element ref="equipolocal"/>
+        <xs:element ref="equipovisitante"/>
+        <xs:element name="resultadolocal" type="xs:string"/>
+        <xs:element name="resultadovisitante" type="xs:string"/>
+        <xs:element name="tipodeporte" type="xs:string"/>
+        <xs:element name="escudoLocal" type="xs:string"/>
+        <xs:element name="escudoVisitante" type="xs:string"/>
+        <xs:element name="tv" type="xs:string"/>
+        <xs:element name="estadisticas" type="xs:string"/>
+        <xs:element name="alineaciones" type="xs:string"/>
+        <xs:element name="comentariosLectores" type="xs:string"/>
+        <xs:element name="previacronica" type="xs:string"/>
+        <xs:element name="enlaceDirecto" type="xs:string"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:string" use="required"/>
+      <xs:attribute name=" idapisportevent" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="estado">
+    <xs:complexType mixed="true">
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="equipolocal">
+    <xs:complexType mixed="true">
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="equipovisitante">
+    <xs:complexType mixed="true">
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="clasificacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="team" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="team">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string"/>
+        <xs:element name="rank" type="xs:string"/>
+        <xs:element name="points" type="xs:string"/>
+        <xs:element name="played" type="xs:string"/>
+        <xs:element name="won" type="xs:string"/>
+        <xs:element name="lost" type="xs:string"/>
+        <xs:element name="drawn" type="xs:string"/>
+        <xs:element name="goals_scored" type="xs:string"/>
+        <xs:element name="goals_conceded" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,21 +1,21 @@
 @font-face {
   font-family: "AlfaSlabOne";
-  src: url("Fuentes/AlfaSlabOne-Regular.ttf");
+  src: url("fonts/AlfaSlabOne-Regular.ttf");
 }
 
 @font-face {
   font-family: "Questrial";
-  src: url("Fuentes/Questrial-Regular.ttf");
+  src: url("fonts/Questrial-Regular.ttf");
 }
 
 @font-face {
   font-family: "RobotoMono";
-  src: url("Fuentes/RobotoMono-Regular.ttf");
+  src: url("fonts/RobotoMono-Regular.ttf");
 }
 
 @font-face {
   font-family: "GeosansLight";
-  src: url("Fuentes/GeosansLight.ttf");
+  src: url("fonts/GeosansLight.ttf");
 }
 
 * {
@@ -24,7 +24,7 @@
 }
 
 body {
-  background-image: url(Imágenes/fondo1.jpg);
+  background-image: url(../img/fondo1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;

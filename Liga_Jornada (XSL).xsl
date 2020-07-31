@@ -14,13 +14,13 @@
                 <meta charset="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <title>Liga Santander - Resultados de la jornada</title>
-                <link rel="stylesheet" href="CSS/Liga_Jornada-CSS.css" type="text/css" />
-                <link rel="icon" type="image/png" href="CSS/Imágenes/laliga-v-1200x1200_2018.png" />
+                <link rel="stylesheet" href="css/Liga_Jornada-CSS.css" type="text/css" />
+                <link rel="icon" type="image/png" href="img/laliga-v-1200x1200_2018.png" />
             </head>
             <body>
                 <header id="Encabezado">
-                    <img class="logo" alt="logo_liga" src="CSS/Imágenes/laliga-v-1200x1200_2018.png " />
-                    <img class="balon" alt="balon" src="CSS/Imágenes/balon.gif" />
+                    <img class="logo" alt="logo_liga" src="img/laliga-v-1200x1200_2018.png " />
+                    <img class="balon" alt="balon" src="img/balon.gif" />
                     <h1>
                         <xsl:value-of select="//competicion/nombre" />
                     </h1>
@@ -103,13 +103,13 @@
                                     </tr>
                                     <td class="fecha" colspan="3">
                                         <xsl:value-of select="fecha" />
-                                        <img class="separador" alt="separador" src="CSS/Imágenes/separador.png" />
+                                        <img class="separador" alt="separador" src="img/separador.png" />
                                     </td>
                                 </tr>
                             </xsl:for-each>
                         </tr>
                     </table>
-                    <img class="futbol" alt="futbol" src="CSS/Imágenes/gifs-futbol-2.gif" />
+                    <img class="futbol" alt="futbol" src="img/gifs-futbol-2.gif" />
                 </section>
                 <aside>
                     <table class="clasificacion">
@@ -182,7 +182,7 @@
                 </aside>
                 <footer>
                     2019 - Diseño original de
-                    <img alt="logo" height="22" src="CSS/Imágenes/logo.png" />
+                    <img alt="logo" height="22" src="img/logo.png" />
                 </footer>
             </body>
         </html>
